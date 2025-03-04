@@ -12,9 +12,9 @@ plt.rcParams['font.family'] = 'Arial Unicode MS'
 st.set_page_config(page_title="วิเคราะห์โอกาสปนเปื้อน BY2 ในทุเรียน", layout="wide")
 st.markdown("""
     <style>
-        .stApp { background-color: #004d00; }
+        .stApp { background-color: #EFF8EFFF; }
         h1, h2, h3 { color: #ffcc00; text-align: center; }
-        .note-text { color: #F0F9F1FF; font-size: 22px; font-weight: bold; text-align: center; }
+        .note-text { color: #5826BBFF; font-size: 22px; font-weight: bold; text-align: center; }
         .guide-text { color: #ffcc00; font-size: 20px; font-weight: bold; text-align: left; }
     </style>
 """, unsafe_allow_html=True)
