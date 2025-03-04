@@ -97,7 +97,7 @@ if uploaded_file is not None:
 # แสดงคำเตือนเรื่องความแม่นยำ
 st.markdown("<h2 style='color:#ffcc00; font-size:24px;'>⚠️ หมายเหตุ:</h2>", unsafe_allow_html=True)
 st.markdown("""
-    <p style='font-size:16px; color:white;'>
+    <p style='font-size:16px; color:blue;'>
         การวิเคราะห์นี้เป็นการประเมินเบื้องต้น อาจมีความคลาดเคลื่อนขึ้นอยู่กับคุณภาพของภาพ <br>
         กรุณาใช้ควบคู่กับการตรวจสอบด้วยตาเปล่า
     </p>
